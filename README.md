@@ -1,6 +1,6 @@
 ## Spreadsheet Search
 
-A simple Node.js app that pulls data from all the worksheets in a spreadsheet and flattens them out into an array of strings.
+A simple Node.js app that pulls data from all the worksheets in a (public) spreadsheet and flattens them out into an array of strings.
 
 The client JavaScript is built with webpack before pushing the code up. The client is used to do a simple search over the content.
 
